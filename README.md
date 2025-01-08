@@ -84,3 +84,13 @@ A aplicação utiliza a **orientação a objetos** para organizar e modelar o si
 ## Conclusão
 
 Este sistema implementa os conceitos fundamentais de Orientação a Objetos, oferecendo uma maneira eficiente de gerenciar uma biblioteca com funcionalidades de empréstimos e armazenamento persistente de dados.
+
+## Créditos 
+
+**Aluno**: Caio Vilas Boas Miranda
+**Turma**: 03
+**Professor**: Henrique Gomes de Moura
+**Matéria**: Orientação a Objetos
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
