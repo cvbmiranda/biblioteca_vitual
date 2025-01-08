@@ -87,10 +87,10 @@ Este sistema implementa os conceitos fundamentais de Orientação a Objetos, ofe
 
 ## Créditos 
 
-**Aluno**: Caio Vilas Boas Miranda
-**Turma**: 03
-**Professor**: Henrique Gomes de Moura
-**Matéria**: Orientação a Objetos
+- **Aluno**: Caio Vilas Boas Miranda 
+- **Turma**: 03
+- **Professor**: Henrique Gomes de Moura
+- **Matéria**: Orientação a Objetos
 
 ## Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
